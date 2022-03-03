@@ -1,0 +1,15 @@
+
+
+.xy{
+    display: flex;
+    flex-wrap: wrap;
+
+
+}
+.p1{
+    background-color: red; 
+    height: 200px;
+    width: 400px;
+    margin: 1%;
+    background-size: cover;
+}
